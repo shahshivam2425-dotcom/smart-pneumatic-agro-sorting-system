@@ -62,12 +62,18 @@ Future Improvements
 Author
 
 Shivam Shah
-SE <img width="1064" height="1556" alt="WhatsApp Image 2026-05-30 at 4 05 42 PM" src="https://github.com/user-attachments/assets/c179b325-71c9-46d8-8af1-c2d7d156b0e7" />
+SE
+DYP DPU MECHANICAL
+
+## LADDER LOGIC
+<img width="1064" height="1556" alt="WhatsApp Image 2026-05-30 at 4 05 42 PM" src="https://github.com/user-attachments/assets/c179b325-71c9-46d8-8af1-c2d7d156b0e7" />
 <img width="1080" height="783" alt="WhatsApp Image 2026-05-30 at 4 05 42 PM (1)" src="https://github.com/user-attachments/assets/29db6ccc-e15e-47b6-9799-4e26b32192ae" />
-![Uploading WhatsApp Image 2026-05-30 at 4.05.42 PM.jpeg…]()
+
+## HMI SCREENSHOT
 <img width="1742" height="1080" alt="WhatsApp Image 2026-05-30 at 3 59 50 PM" src="https://github.com/user-attachments/assets/41a1660e-5b8c-406b-9a77-1fb227cc5616" />
-DYP DPU 
-Mechanical Engineering<img width="1402" height="1122" alt="WhatsApp Image 2026-05-30 at 3 57 54 PM" src="https://github.com/user-attachments/assets/765cc412-841a-45a2-ac86-fe0fafc56876" />
+
+## ARCHITECTURE DIAGRAM
+<img width="1402" height="1122" alt="WhatsApp Image 2026-05-30 at 3 57 54 PM" src="https://github.com/user-attachments/assets/765cc412-841a-45a2-ac86-fe0fafc56876" />
 
 ## Technologies Used
 
